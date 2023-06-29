@@ -739,7 +739,7 @@ class Post extends React.Component {
                     if (this.state.cardList[k]['card']['title'] !== 'About') {
                         document.title = this.state.cardList[k]['card']['title']
                     } else {
-                        document.title = 'Jiang 的数字花园🌱'
+                        document.title = 'Tylia\'s Digital Garden'
                     }
 
                     break;
